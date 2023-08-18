@@ -1,0 +1,21 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  4 JUN 2023 02:07
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**latex_error.txt -output-directory /Users/Levent/Desktop/pseudo_code_data/late
+x_and_pdf /Users/Levent/Desktop/pseudo_code_data/latex_and_pdf/2011.00076_1.log
+
+
+! Emergency stop.
+<*> latex_error.txt 
+                    -output-directory /Users/Levent/Desktop/pseudo_code_data...
+ 
+Here is how much of TeX's memory you used:
+ 3 strings out of 480608
+ 106 string characters out of 5903631
+ 239610 words of memory out of 5000000
+ 15998 multiletter control sequences out of 15000+600000
+ 532338 words of font info for 24 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 0i,0n,0p,1b,6s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!
